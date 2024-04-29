@@ -1,5 +1,5 @@
 # C-project
-Headers:
+Headers:  
 
 <iostream>: This header file is essential for input/output operations in C++. It provides functions like cout (for console output) and cin (for user input).
 <cstdlib>: This header offers general-purpose utilities, including rand for generating random numbers.
